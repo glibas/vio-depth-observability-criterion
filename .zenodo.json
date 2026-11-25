@@ -1,0 +1,13 @@
+{
+  "title": "Depth-observability admission criterion for UAV visual-inertial odometry: code, notebook and results",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Code, Colab notebook and per-run results for the paper \"A Depth-Observability Admission Criterion for UAV Visual-Inertial Odometry\" (G. Briia, I. Turkin, O. Liubimov, ISEAS / ISUN-AI 2026). A monocular MSCKF is run on 17 EuRoC MAV and TUM-VI sequences under different landmark-admission settings (816 deterministic runs); the notebook reproduces every table and number of the paper.",
+  "creators": [
+    {"name": "Briia, Glib", "affiliation": "National Aerospace University \"Kharkiv Aviation Institute\""},
+    {"name": "Turkin, Ihor", "affiliation": "National Aerospace University \"Kharkiv Aviation Institute\""},
+    {"name": "Liubimov, Oleksandr", "affiliation": "National Aerospace University \"Kharkiv Aviation Institute\""}
+  ],
+  "keywords": ["visual-inertial odometry", "MSCKF", "landmark admission", "depth observability", "UAV navigation"]
+}

@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper."
+title: "Depth-observability admission criterion for UAV visual-inertial odometry: code, notebook and results"
+type: software
+version: "1.0.0"
+date-released: "2026-11-25"
+license: MIT
+authors:
+  - family-names: Briia
+    given-names: Glib
+    affiliation: 'National Aerospace University "Kharkiv Aviation Institute"'
+  - family-names: Turkin
+    given-names: Ihor
+    affiliation: 'National Aerospace University "Kharkiv Aviation Institute"'
+  - family-names: Liubimov
+    given-names: Oleksandr
+    affiliation: 'National Aerospace University "Kharkiv Aviation Institute"'
+keywords:
+  - visual-inertial odometry
+  - MSCKF
+  - landmark admission
+  - depth observability
+  - UAV navigation
+preferred-citation:
+  type: conference-paper
+  title: "A Depth-Observability Admission Criterion for UAV Visual-Inertial Odometry"
+  authors:
+    - family-names: Briia
+      given-names: Glib
+    - family-names: Turkin
+      given-names: Ihor
+    - family-names: Liubimov
+      given-names: Oleksandr
+  collection-title: "ISEAS / ISUN-AI 2026"
+  year: 2026

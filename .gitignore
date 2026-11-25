@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+out/
+dg_local/
+depth-observability-criterion/
+.ipynb_checkpoints/
